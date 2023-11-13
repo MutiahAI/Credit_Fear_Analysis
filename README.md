@@ -6,7 +6,7 @@ This repository leverages the [2022 Survey of Consumer Finances (SCF)](https://w
 
 - **Data:** The Data folder contains the dataset sourced from the [2022 SCF](https://www.federalreserve.gov/econres/scfindex.htm).
 
-- **Images:** The image folder contains visualizations linked in the Data_Exploration notebook.
+- **Image:** The image folder contains visualizations linked in the Data_Exploration notebook.
 
 - **Data_Exploration.ipynb:** This notebook performs exploratory data analysis (EDA) on the dataset, examining key features.
 
